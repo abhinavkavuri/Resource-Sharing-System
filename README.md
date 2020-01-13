@@ -1,6 +1,7 @@
 # Resource-Sharing-System
-🎓Website Based on HTML, CSS &amp; PHP,that allows registered users to lend and give away books,documents etc.... 
+<a href="https://travis-ci.org/abhinavkavuri/Resource-Sharing-System"><img alt="Travis (.org)" src="https://img.shields.io/travis/abhinavkavuri/Resource-Sharing-System.svg?color=blue&logo=github&logoColor=yellow"> </a> [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](https://#) <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/abhinavkavuri/Resource-Sharing-System.svg"> <img alt="GitHub repo size in bytes" src="https://img.shields.io/github/repo-size/abhinavkavuri/Resource-Sharing-System.svg?color=red&style=flat-square"> <img alt="GitHub" src="https://img.shields.io/github/license/abhinavkavuri/Resource-Sharing-System.svg?color=magenta&logo=mozilla&style=flat-square">
 
+🎓Website Based on HTML, CSS &amp; PHP,that allows registered users to lend and give away books,documents etc.... 
 
 **Supported Features:**<br>
 `intranet mailing`<br>
