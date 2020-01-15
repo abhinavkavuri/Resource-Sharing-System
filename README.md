@@ -3,6 +3,11 @@
 
 🎓Website Based on HTML, CSS &amp; PHP,that allows registered users to lend and give away books,documents etc.... 
 
+### Developed as part of my Internship at ECIL
+
+### `©️ Website owned by the Electronics Corporation of India Limited - Computer Division`
+`Licensed & not for free use ‼`
+
 **Supported Features:**<br>
 `intranet mailing`<br>
 `Fast attachment access`<br>
